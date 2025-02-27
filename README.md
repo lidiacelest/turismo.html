@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"> 
     <title>Promoção de Passagens Aéreas</title>
     <style> 
         /* Estilizando a página */
